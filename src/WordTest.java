@@ -8,4 +8,8 @@ public class WordTest {
     public void speak(){
         //festival commands
     }
+
+    public void speak2(){
+        //merged branch and deleted locally, now gonna push this method.
+    }
 }
