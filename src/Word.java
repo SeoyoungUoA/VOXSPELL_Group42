@@ -7,7 +7,7 @@ public class Word {
     private int _level;
 
     Word(String name, int level){
-        _name = name;
+        _name = name; //rip
         _level = level;
     }
 }
