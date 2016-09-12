@@ -13,7 +13,7 @@ public class TestClass {
         System.out.print("Testing");
     }
 
-    prviate static void seoyoungMethod(){
+    private static void seoyoungMethod(){
         System.out.print("AhSuhDude");
     }
 
